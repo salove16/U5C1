@@ -2,8 +2,8 @@ import { useState } from "react";
 
 function App() {
   const [inv, setscore]=useState({
-    score:0,
-    wicket:0,
+    score:76,
+    wicket:2,
     over:0,
     subOver:0
   })
